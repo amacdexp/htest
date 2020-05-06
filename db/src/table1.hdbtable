@@ -1,0 +1,4 @@
+COLUMN TABLE "table1" (
+	"ID" INTEGER              COMMENT 'ID',
+	"NAME" NVARCHAR(256)      COMMENT 'Name',
+	PRIMARY KEY ("ID") )
